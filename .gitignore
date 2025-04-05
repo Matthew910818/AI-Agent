@@ -1,0 +1,4 @@
+# Ignore environment variables and secret files
+.env
+credentials.json
+token.json
